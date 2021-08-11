@@ -12,8 +12,8 @@ Do check my repositories and hit a star *⭐ if u like 🤗
 
 
 ~TO KNOW MORE ABOUT ME:                                        
-• 👩‍🎓    I’m a first year student of computer science and engineering course in NATIONAL INSTITUTE OF TECHNOLOGY ,AGARTALA 
-•  📖   I’m  currently learning data structure and algorithm 
-• 🤝   I’m looking to collaborate with many participates in github 
-•  📢  Ask me about C and C++ programming 	
-• ⏳ How to Reach me  :azmeerabhagyasree@gmail.com
+# 👩‍🎓    I’m a first year student of computer science and engineering course in NATIONAL INSTITUTE OF TECHNOLOGY ,AGARTALA 
+#  📖   I’m  currently learning data structure and algorithm 
+# 🤝   I’m looking to collaborate with many participates in github 
+#  📢  Ask me about C and C++ programming 	
+# ⏳ How to Reach me  :azmeerabhagyasree@gmail.com
