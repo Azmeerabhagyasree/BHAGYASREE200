@@ -1,16 +1,16 @@
 # Bhagi 
-~Hola Amigos!! I’m Bhagya sree Azmeera  👋 
-I am studing in nit Agartala with Cse department I love developing c programming and interested in doing projects  in Github .
-~❤❤My interested areas: 
-C and C++ , Data Structures and Algorithms
-Do check my repositories and hit a star *⭐ if u like 🤗    
+~Hola Amigos!! I’m Bhagya sree Azmeera  👋                             
+I am studing in nit Agartala with Cse department I love developing c programming and interested in doing projects  in Github .                   
+~❤❤My interested areas:                         
+C and C++ , Data Structures and Algorithms   
+Do check my repositories and hit a star *⭐ if u like 🤗                          
 ![image](https://user-images.githubusercontent.com/85113970/128506760-605b84f1-18bb-46f0-9947-ba07e74fbd1e.png)
 ![image](https://user-images.githubusercontent.com/85113970/128712787-2013cbb1-14e0-4354-9d5b-58c9a3b364c8.png) 
 ![image](https://user-images.githubusercontent.com/85113970/128817133-5d576dc8-3c28-49db-bebc-16ec3508f4fd.png)
 
 
 
-~TO KNOW MORE ABOUT ME: 
+~TO KNOW MORE ABOUT ME:                                        
 # 👩‍🎓    I’m a first year student of computer science and engineering course in NATIONAL INSTITUTE OF TECHNOLOGY ,AGARTALA 
 #  📖   I’m  currently learning data structure and algorithm 
 # 🤝   I’m looking to collaborate with many participates in github 
