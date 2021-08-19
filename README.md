@@ -8,7 +8,6 @@
 👉🎮 gamer   
 ![image](https://user-images.githubusercontent.com/85113970/128506760-605b84f1-18bb-46f0-9947-ba07e74fbd1e.png)  
 
-![image](https://user-images.githubusercontent.com/85113970/130036836-bc022653-d18c-499f-9948-9bd507e2d264.png)
 
 
 
