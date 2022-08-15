@@ -2,6 +2,9 @@
 
 # Hi, I'm Bhagya Sree 👋
 
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=laxmena&count_private=true&show_icons=true&hide=contribs)
+
+
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)                                                                                                                                 
 
