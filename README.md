@@ -1,8 +1,7 @@
 
 
 # Hi, I'm Bhagya Sree 👋
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Azmeerabhagyasree_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Azmeerabhagyasree&count_private=true&show_icons=true&hide=contribs)
 
 
 ## Watch my contributions get eaten by a snake 🐍
